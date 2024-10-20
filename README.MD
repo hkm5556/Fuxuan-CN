@@ -5,7 +5,7 @@
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/I like-Programming-f38ba8?style=for-the-badge&logo=southwestairlines&logoColor=5599ff">
-    <a href="https://www.rust-lang.org">
+    <a href="https://www.python.org">
         <img src="https://img.shields.io/badge/Code-Python-5599ff?style=for-the-badge&logo=python&logoColor=5599ff">
     </a>
     <a href="https://www.microsoft.org">
